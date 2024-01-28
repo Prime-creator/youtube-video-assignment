@@ -16,8 +16,7 @@ This Django project is designed to fetch and store the latest YouTube videos bas
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Prime-creator/fampay-backend-assignment.git
-    cd fampay-backend-assignment
+    git clone https://github.com/Prime-creator/youtube-video-assignment.git
     ```
 
 2. **Install dependencies:**
