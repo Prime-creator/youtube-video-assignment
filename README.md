@@ -52,17 +52,3 @@ This Django project is designed to fetch and store the latest YouTube videos bas
 
 - Use the `/api/videos/` endpoint to retrieve stored video data.
 - Use the `/api/search/` endpoint to search for videos.
-
-For more details, refer to the API documentation.
-
-## Bonus Features
-
-- [Optional] Add support for multiple API keys.
-- [Optional] Create a dashboard to view stored videos with filters and sorting options.
-
-## Reference
-
-- [YouTube Data API Documentation](https://developers.google.com/youtube/v3/getting-started)
-- [YouTube Search API Reference](https://developers.google.com/youtube/v3/docs/search/list)
-
-Feel free to reach out if you have any questions or need further assistance!
