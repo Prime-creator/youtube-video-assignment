@@ -1,7 +1,3 @@
-# FamPay Backend Assignment
-
-This Django project is designed to fetch and store the latest YouTube videos based on a predefined search query. Additionally, it provides APIs for retrieving stored video data and searching for videos by title and description.
-
 ## Project Setup
 
 ### Prerequisites
